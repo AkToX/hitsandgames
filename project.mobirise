@@ -157,7 +157,7 @@
             "showButtons": false
           },
           "title": "ECOUTEZ-NOUS !",
-          "text": "METTRE LE WIDGET",
+          "text": "<iframe src=\"https://www.radioking.com/widgets/player/player.php?id=82786&amp;c=%233498db&amp;ii=&amp;p=1&amp;pp=1&amp;i=0&amp;eq=1&amp;po=1&amp;t=1&amp;a=1&amp;f=big\" name=\"idFrame\" id=\"idFrame\" width=\"445\" height=\"196\" frameborder=\"0\"></iframe><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -191,8 +191,8 @@
           "_name": "features6",
           "_anchor": "features6-5",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -205,7 +205,7 @@
             "overlay": true,
             "overlayOpacity": "0.3",
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -226,7 +226,7 @@
           },
           "title1": "AkToX",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Organisateur de Hits and Games.<br>Gère les musiques qui passent, les sounds et les transitions.",
+          "caption1": "Organisateur de Hits and Games.<br>Community Manager et Ingénieur son.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -242,7 +242,7 @@
           },
           "title2": "Tshekyo",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Fondateur de Hits and Games.<br>Fait le commentary et les voix off.",
+          "caption2": "Fondateur de Hits and Games.<br>Responsable animateurs et animateur.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -258,49 +258,53 @@
           },
           "title3": "MinoShunt",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Commentateur en direct.<br><br>",
+          "caption3": "Animateur de Hits and Games.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title4": "Qqn",
+          "title4": "Mirabelle",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Animatrice de Hits and Games.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title5": "Trendy Website Blocks",
+          "title5": "Arizuuka",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "Responsable Support.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "help",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": "130",
+              "newWindow": false
             }
           },
-          "title6": "Host Anywhere",
+          "title6": "Kirito",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "caption6": "Responsable Discord.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
