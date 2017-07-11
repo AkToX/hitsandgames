@@ -359,7 +359,7 @@
           "title": "CONTACTEZ-NOUS !",
           "subtitle": "On veut savoir ce que vous pensez de nous !",
           "form": {
-            "action": "realaktox@gmail.com",
+            "action": "hitsandgamesoff@gmail.com",
             "alerts": {
               "success": "Merci de ton message, on te recontact très rapidement ! \n"
             },
