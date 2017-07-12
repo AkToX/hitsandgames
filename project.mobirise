@@ -641,7 +641,7 @@
             "showButtons": false
           },
           "title": "T'CHAT : ENVOYEZ VOS DEDICACES ET DISCUTEZ AVEC NOUS !",
-          "text": "g<br><br>",
+          "text": "<script id=\"cid0020000160871846372\" data-cfasync=\"false\" async=\"\" src=\"//st.chatango.com/js/gz/emb.js\" style=\"width: 751px;height: 545px;\">{\"handle\":\"hitsandgames\",\"arch\":\"js\",\"styles\":{\"a\":\"0084EF\",\"b\":100,\"c\":\"FFFFFF\",\"d\":\"FFFFFF\",\"k\":\"0084EF\",\"l\":\"0084EF\",\"m\":\"0084EF\",\"n\":\"FFFFFF\",\"p\":\"11.07\",\"q\":\"0084EF\",\"r\":100,\"t\":0,\"surl\":0,\"cnrs\":\"1\",\"fwtickm\":1}}</script><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
