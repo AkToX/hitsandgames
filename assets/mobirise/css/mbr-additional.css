@@ -438,11 +438,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-0 .link {
-  font-size: 1.1rem;
+  font-size: 0.95rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.029rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -497,4 +497,78 @@ h6,
 #social-buttons2-4 .mbr-section-title,
 #social-buttons2-4 .btn-social {
   color: #232323;
+}
+
+#ext_menu-9 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-9 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-9 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-9 .close-icon::before,
+#ext_menu-9 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-9 .link,
+#ext_menu-9 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-9 .link {
+  font-size: 0.95rem;
+}
+#ext_menu-9 .dropdown-item,
+#ext_menu-9 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-9 .link:hover,
+#ext_menu-9 .dropdown-item:hover,
+#ext_menu-9 .link:focus,
+#ext_menu-9 .dropdown-item:focus {
+  color: #f28281;
+}
+#ext_menu-9 .link[aria-expanded="true"],
+#ext_menu-9 .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-9 .nav-dropdown-sm .link:focus,
+#ext_menu-9 .nav-dropdown-sm .link:hover,
+#ext_menu-9 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-9 .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-9 .navbar,
+#ext_menu-9 .nav-dropdown-sm,
+#ext_menu-9 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-9 .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-9 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-9 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-9 .bg-color.transparent.opened .link:hover,
+#ext_menu-9 .bg-color.transparent.opened .link:focus {
+  color: #f28281;
+}
+#ext_menu-9 .link[aria-expanded="true"],
+#ext_menu-9 .dropdown-item[aria-expanded="true"] {
+  color: #f28281!important;
+}
+#header3-c .mbr-section-title,
+#header3-c .mbr-section-subtitle {
+  text-align: center;
+}
+#features7-d .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-d .iconbox {
+  background-color: #f28281;
+  border-color: #f28281;
 }
