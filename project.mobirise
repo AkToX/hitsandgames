@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7,
+    "uniqCompNum": 9,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -189,7 +189,7 @@
             "Theme"
           ],
           "_name": "features6",
-          "_anchor": "features6-5",
+          "_anchor": "features6-8",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "2",
@@ -205,7 +205,7 @@
             "overlay": true,
             "overlayOpacity": "0.3",
             "overlayColor": "#222",
-            "columns": "6",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -216,7 +216,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "setting2",
+              "name": "website-theme",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
@@ -226,7 +226,7 @@
           },
           "title1": "AkToX",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Organisateur de Hits and Games.<br>Community Manager et Ingénieur son.",
+          "caption1": "Organisateur de Hits and Games<br>Développeur &amp; Ingénieur son",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -242,13 +242,13 @@
           },
           "title2": "Tshekyo",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Fondateur de Hits and Games.<br>Responsable animateurs et animateur.",
+          "caption2": "Fondateur de Hits and Games<br>Responsable animateurs &amp; Community Manager",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "user",
+              "name": "setting2",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
@@ -258,7 +258,7 @@
           },
           "title3": "Ross-T",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Ingénieur son, Animateur.<br><br>",
+          "caption3": "Ingénieur son &amp; Animateur<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -308,6 +308,130 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-5",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "link",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "BYSTEELIX",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Community Manager",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "Ressis",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Animateur",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "setting3",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Maxou",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Progammateur<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Mirabelle",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Animatrice",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title5": "Arizuuka",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Responsable Support",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "130",
+              "newWindow": false
+            }
+          },
+          "title6": "Mayu",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Chroniqueuse",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -325,7 +449,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Hits and Games"
+          "text": "Copyright (c) 2017 Hits and Games<br>Made by AkToX"
         },
         {
           "_tags": [
