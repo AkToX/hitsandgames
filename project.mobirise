@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -614,6 +614,35 @@
           "title": "ECOUTEZ-NOUS !",
           "text": "<iframe src=\"https://www.radioking.com/widgets/player/player.php?id=82786&amp;c=%231E7FCB&amp;ii=&amp;p=1&amp;pp=1&amp;i=0&amp;eq=1&amp;po=1&amp;t=1&amp;a=1&amp;f=big\" name=\"idFrame\" id=\"idFrame\" width=\"445\" height=\"196\" frameborder=\"0\"></iframe><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "T'CHAT : ENVOYEZ VOS DEDICACES ET DISCUTEZ AVEC NOUS !",
+          "text": "<embed wmode=\"transparent\" src=\"https://www.xatech.com/web_gear/chat/chat.swf\" quality=\"high\" width=\"640\" height=\"480\" name=\"chat\" flashvars=\"id=219460652\" align=\"middle\" allowscriptaccess=\"sameDomain\" type=\"application/x-shockwave-flash\" pluginspage=\"https://xat.com/update_flash.php\"><br><small><a target=\"_BLANK\" href=\"https://xat.com/web_gear/?cb\">Get your own Chat Box!</a> <a target=\"_BLANK\" href=\"https://xat.com/web_gear/chat/go_large.php?id=219460652\">Go Large!</a></small><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
