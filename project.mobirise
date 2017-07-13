@@ -1,17 +1,17 @@
 {
   "settings": {
     "name": "Hits and Games",
-    "currentPage": "index",
+    "currentPage": "partenariats",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#f28281",
-        "secondaryColor": "#f28281",
-        "successColor": "#f28281",
-        "infoColor": "#f28281",
-        "warningColor": "#f28281",
-        "dangerColor": "#f28281",
+        "secondaryColor": "#b8312f",
+        "successColor": "#00a885",
+        "infoColor": "#7c706b",
+        "warningColor": "#475577",
+        "dangerColor": "#c0a375",
         "titleFont": "Titillium Web",
         "subtitleFont": "Lora",
         "textFont": "Roboto",
@@ -384,8 +384,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
+              "name": "discord",
+              "family": "socicon",
               "active": true,
               "link": "partenariats.html",
               "size": 0,
@@ -395,14 +395,14 @@
           },
           "title1": "LE ROYAUME DE TWIXTAR",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Serveur Discord pour gamers, dans le style moyenâgeux.<br><b>Clique ici !</b><br>",
+          "caption1": "Serveur Discord pour gamers, dans le style moyenâgeux.<br><b><a href=\"https://discord.gg/Ng3wTBV\" target=\"_blank\">Clique ici !</a></b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "edit",
-              "family": "et-line",
+              "name": "twitch",
+              "family": "socicon",
               "active": true,
               "link": "partenariats.html",
               "size": 0,
@@ -410,9 +410,9 @@
               "newWindow": false
             }
           },
-          "title2": "ON EST A PAS... RETWEET STP",
+          "title2": "PIMKIEPIE",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": ";-;",
+          "caption2": "<p>Streameuse sur sa chaine twitch perso &amp; la chaine de la FireTeaMTV<br><a href=\"https://www.twitch.tv/pimkiepie\" target=\"_blank\"><b>Pimkiepie</b></a> - <a href=\"https://twitch.tv/FireTeaMTV\" target=\"_blank\"><b>FireTeaMTV</b></a></p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
