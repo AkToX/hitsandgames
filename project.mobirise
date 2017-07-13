@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hits and Games",
-    "currentPage": "accueil",
+    "currentPage": "index",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -481,7 +481,7 @@
         }
       ]
     },
-    "accueil": {
+    "index": {
       "settings": {
         "main": true,
         "title": "Hits and Games - Ecoutez-nous !",
